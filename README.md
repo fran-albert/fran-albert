@@ -18,7 +18,7 @@ I'm an advanced student of Systems Engineering and ```Full Stack Dev JR 👩‍�
 
 <hr/>
 
-## 💻 I'm still learning:
+## 📖 I'm still learning:
 <ul> 
   <li><img src="https://img.icons8.com/fluency/30/typescript--v2.png" alt="typescript--v2"/></li>
   <li><img src="https://docs.nestjs.com/assets/logo-small.svg" width=30px height=30px alt="nestjs"/></li>
