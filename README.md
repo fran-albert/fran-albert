@@ -1,16 +1,27 @@
-### Hi there 👋
+# Hello World! I'm Francisco 👋
 
-<!--
-**fran-albert/fran-albert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an advanced student of Systems Engineering and ```Full Stack Dev JR 👩‍💻``` living in Argentina.
 
-Here are some ideas to get you started:
+<hr/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 I work with
+<ul> 
+  <li><img src="https://img.icons8.com/fluency/30/javascript.png" alt="JavaScript"/></li>
+  <li><img src="https://img.icons8.com/fluency/30/typescript--v2.png" alt="typescript--v2"/></li>
+  <li><img src="https://img.icons8.com/color/30/html-5--v1.png" alt="html-5--v1"/></li>
+  <li><img  src="https://img.icons8.com/color/30/react-native.png" alt="react-native"/></li>
+  <li><img src="https://img.icons8.com/color/30/css3.png" alt="css3"/></li>
+  <li><img src="https://img.icons8.com/color/30/nodejs.png" alt="nodejs"/></li>
+  <li><img src="https://docs.nestjs.com/assets/logo-small.svg" width=30px height=30px alt="nestjs"/></li>
+  <li><img src="https://testrigor.com/wp-content/uploads/2023/04/nextjs-logo-square.png" width=30px height=30px alt="nestjs"/></li>
+  <li><img src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/001/287/square_480/prismaHD.png" width=30px height=30px alt="nestjs"/></li>
+  <li><img width="48" height="48" src="https://img.icons8.com/color/30/amazon-web-services.png" alt="amazon-web-services"/></li>
+</ul>
+
+<hr/>
+
+### My Projects
+
+  
+1- [Mi Portal - Incor Centro Médico](https://miportal.incorcentromedico.com.ar) : Each time a patient undergoes a study or analysis, the application provides immediate access to the PDF document of the result. <br/>
+2- [Next JS - CAT App](https://github.com/fran-albert/nestjs-cat-app)
