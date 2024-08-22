@@ -14,15 +14,11 @@ I'm an advanced student of Systems Engineering and ```Full Stack Dev JR 👩‍�
   <li><img src="https://testrigor.com/wp-content/uploads/2023/04/nextjs-logo-square.png" width=30px height=30px alt="nestjs"/></li>
   <li><img src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/001/287/square_480/prismaHD.png" width=30px height=30px alt="nestjs"/></li>
   <li><img width="48" height="48" src="https://img.icons8.com/color/30/amazon-web-services.png" alt="amazon-web-services"/></li>
-</ul>
-
-<hr/>
-
-## 📖 I'm still learning:
-<ul> 
   <li><img src="https://img.icons8.com/fluency/30/typescript--v2.png" alt="typescript--v2"/></li>
   <li><img src="https://docs.nestjs.com/assets/logo-small.svg" width=30px height=30px alt="nestjs"/></li>
 </ul>
+
+<hr/>
 
 ### My Projects
 
