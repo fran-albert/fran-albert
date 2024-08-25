@@ -25,3 +25,6 @@ I'm an advanced student of Systems Engineering and ```Full Stack Dev JR 👩‍�
   
 1- [Mi Portal - Incor Centro Médico](https://miportal.incorcentromedico.com.ar) : Each time a patient undergoes a study or analysis, the application provides immediate access to the PDF document of the result. <br/>
 2- [Next JS - CAT App](https://github.com/fran-albert/nestjs-cat-app)
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fran-albert&count_private=true)
