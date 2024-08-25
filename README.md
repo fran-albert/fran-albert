@@ -28,3 +28,4 @@ I'm an advanced student of Systems Engineering and ```Full Stack Dev JR 👩‍�
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fran-albert&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fran-albert&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
